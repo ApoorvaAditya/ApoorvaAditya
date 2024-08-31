@@ -14,9 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Apoorva Aditya and 
-- 📱 I'm currently the chair of Special Interest Group for Mobile Development (SIGMobile) under the Association of Computing Machinery at University of Illinois at Urbana-Champaign (AMC@UIUC)
-- 🔭 I’m currently working on developing a horror game in Unreal for the final project for CS 415, the Android App for HackIllinois, and the mobile app for Pulse, the ECE tech conference.
-- 🌱 I’m currently learning game development in Unreal Engine and Android app development with Kotlin
-- 💬 Ask me about Flutter and Dart and mobile development in general
-- ⚡ Fun fact: I have two published app on the Google Play Store with a total 10,000+ downloads. Check them out here: [My Google Play Store Page](https://play.google.com/store/apps/developer?id=Apoorva+Aditya)
+My name is Apoorva Aditya and I am currently working at Uber Freight as a Software Engineer in Chicago. Check out the apps I've published here on the [Google Play Store](https://play.google.com/store/apps/developer?id=Apoorva+Aditya)!
